@@ -172,7 +172,11 @@ driver.quit()
 
 #### Screenshot of Results
 ![alt text](image.png)
+
+
 ![alt text](image-1.png)
+
+
 ![alt text](image-3.png)
 
 #### Summary (150 words)
@@ -261,13 +265,26 @@ plt.show()
 
 #### Performance Metrics
 
-- **Accuracy:** *Insert value here after running the notebook*
-- **F1-score:** *Insert value here after running the notebook*
-- **Classification Report:** *Insert output here*
+- **Accuracy:** 
+image.png
+
+
+- **F1-score:** 
+image.png
+
+- **Classification Report:** 
+image.png
 
 #### Screenshot of Results
+
+image.png
+
+image.png
+
 ![alt text](image.png)
+
 ![alt text](image-1.png)
+
 ![alt text](image-2.png)
 ---
 
