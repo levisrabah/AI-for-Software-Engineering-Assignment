@@ -171,6 +171,16 @@ driver.quit()
 ```
 
 #### Screenshot of Results
+
+![alt text](<Screenshot from 2025-06-26 16-18-43 (1).png>)
+
+
+![alt text](<Screenshot from 2025-06-26 16-29-04.png>) 
+
+
+![alt text](<Screenshot from 2025-06-26 16-27-55.png>) 
+
+
 ![alt text](image.png)
 
 
@@ -266,20 +276,22 @@ plt.show()
 #### Performance Metrics
 
 - **Accuracy:** 
-image.png
+0.9912
 
 
 - **F1-score:** 
-image.png
+0.9912
 
 - **Classification Report:** 
-image.png
+![alt text](<Screenshot from 2025-06-26 16-18-43 (1).png>)
 
 #### Screenshot of Results
 
-image.png
+![alt text](<Screenshot from 2025-06-26 16-18-43 (1).png>)
 
-image.png
+![alt text](<Screenshot from 2025-06-26 16-29-04.png>) 
+
+![alt text](<Screenshot from 2025-06-26 16-27-55.png>) 
 
 ![alt text](image.png)
 
